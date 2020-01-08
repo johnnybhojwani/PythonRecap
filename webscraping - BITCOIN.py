@@ -25,4 +25,7 @@ if up_down == '-':
 else:
 	up_down = 'up'
 print("The current price of bitcoin is:",price)
-print("It went", up_down,"by",how_much)                                                      
+print("It went", up_down,"by",how_much)        
+
+print("I am adding a change")
+
